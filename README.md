@@ -1,5 +1,9 @@
-This an output 
-![WhatsApp Image 2025-03-23 at 10 59 44_9ba0c908](https://github.com/user-attachments/assets/652fe459-10b9-44d3-a26c-257f3ea782eb)
+This an output video for the 1st prototype : working on the other :
+The orignal video is of 9-10 min : this an edited version of it
+
+
+https://github.com/user-attachments/assets/df323aa3-f9bf-47e4-b1cd-5eb44ad6a8a9
+
 
 ## Project info
 
