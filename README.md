@@ -4,6 +4,8 @@ The orignal video is of 9-10 min : this an edited version of it
 
 https://github.com/user-attachments/assets/df323aa3-f9bf-47e4-b1cd-5eb44ad6a8a9
 
+Some key features : 
+![WhatsApp Image 2025-03-23 at 10 59 43_b2085c3a](https://github.com/user-attachments/assets/922b907f-ad63-4b5b-bd2f-40681bc16659)
 
 ## Project info
 
